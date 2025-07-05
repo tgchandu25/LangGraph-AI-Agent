@@ -1,0 +1,13 @@
+test_rag_node_response (__main__.TestLangGraphPipeline.test_rag_node_response) ... ok
+Passed
+test_router_document (__main__.TestLangGraphPipeline.test_router_document) ... ok
+Passed
+test_router_weather (__main__.TestLangGraphPipeline.test_router_weather) ... ok
+Passed
+test_weather_node (__main__.TestLangGraphPipeline.test_weather_node) ... ok
+Passed
+
+----------------------------------------------------------------------
+Ran 4 tests in 1.664s
+
+Passed
